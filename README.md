@@ -149,7 +149,12 @@ AdivinaMiDibujo/
 ├── requirements.txt
 └── README.md
 ```
+## 📓 Notebook de Google Colab
 
+El código utilizado para la preparación del dataset, entrenamiento,
+evaluación y generación del modelo se encuentra disponible en Google Colab.
+
+👉 https://colab.research.google.com/drive/14kg75i8Q4ndS-dnk7NvwfJs3yeosTq1O#scrollTo=3uLzU-J7qkoo&uniqifier=2
 ---
 
 ## 🎥 Demostración
