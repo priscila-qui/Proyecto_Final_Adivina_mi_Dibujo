@@ -157,6 +157,11 @@ evaluación y generación del modelo se encuentra disponible en Google Colab.
 👉 https://colab.research.google.com/drive/14kg75i8Q4ndS-dnk7NvwfJs3yeosTq1O#scrollTo=3uLzU-J7qkoo&uniqifier=2
 ---
 
+👉 Vercel-Despliegue
+
+https://vercel.com/pri-57e2/proyecto-final-adivina-mi-dibujo
+
+
 ## 🎥 Demostración
 
 Durante la demostración se muestran diferentes ejemplos de dibujos realizados en tiempo real.
