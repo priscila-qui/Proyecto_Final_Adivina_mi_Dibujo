@@ -109,15 +109,18 @@ Esto permite manejar dibujos que no pertenecen a las cinco categorías utilizada
 
 Accuracy de validación:
 
-**[COLOCAR AQUÍ EL ACCURACY OBTENIDO]**
+Pérdida en prueba:
+
+**0.3345**
 
 Accuracy de prueba:
 
-**[COLOCAR AQUÍ EL ACCURACY DE PRUEBA]**
+**89.90%**
 
 Matriz de confusión:
 
-**[AGREGAR AQUÍ LA IMAGEN DE LA MATRIZ DE CONFUSIÓN]**
+**<img width="649" height="547" alt="image" src="https://github.com/user-attachments/assets/2453a92a-c8b6-4d7c-a355-1424e9f45764" />**
+
 
 ---
 
@@ -159,7 +162,12 @@ evaluación y generación del modelo se encuentra disponible en Google Colab.
 
 👉 Vercel-Despliegue
 
-https://vercel.com/pri-57e2/proyecto-final-adivina-mi-dibujo
+**https://vercel.com/pri-57e2/proyecto-final-adivina-mi-dibujo**
+
+
+👉 ** Video de defensa**
+
+https://ister-my.sharepoint.com/:f:/g/personal/kelly_leyton_ister_edu_ec/IgATEL-Z7JzmTqQC-YYmQ90qAe1P956jJXLJQIPOcyCvu0Q?e=jLp12N&xsdata=%3D&sdata=SFhBTmpQUHhLQ2JCMnMyc3l2YnMyZUtvUlJJRVI3QjNDalcwVlEwV2VlZz0%3D&ovuser=e9763399-4de0-4078-a8dc-a6cb985b4841%2Cpriscila.quinonez%40ister.edu.ec
 
 
 ## 🎥 Demostración
